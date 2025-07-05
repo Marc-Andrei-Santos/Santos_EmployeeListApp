@@ -30,6 +30,7 @@ A simple ASP.NET Core Employee Management Web App with full CRUD functionality u
 4. Open a terminal or command prompt inside the project folder.
 
 5. Run this command to update the database.
+- dotnet ef database update  
 
 6. Run the Application.
 
