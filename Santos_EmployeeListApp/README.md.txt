@@ -13,7 +13,7 @@ A simple ASP.NET Core Employee Management Web App with full CRUD functionality u
 
 ## Tech Stack
 
-- ASP.NET Core 7
+- ASP.NET Core 8
 - Razor Pages + Web API
 - Entity Framework Core
 - Microsoft SQL Server
